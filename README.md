@@ -240,22 +240,6 @@ Next step: Evaluate the fine-tuned model on bilingual benchmarks (FLORES-200 Tam
 
 ---
 
-## Citation
-
-If referencing this work, please cite:
-
-```bibtex
-@misc{yeshwanth2025bilingualllm,
-  author       = {Balmuri Yeshwanth Kumar},
-  title        = {Bilingual Tamil-English LLM Fine-Tuning on Qwen1.5-1.8B},
-  institution  = {IIIT Kottayam},
-  year         = {2025},
-  howpublished = {\url{https://github.com/yeshwanthkumar/bilingual-tamil-llm}}
-}
-```
-
----
-
 ## License
 
 This project is licensed under the **Apache 2.0 License**.
